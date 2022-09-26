@@ -12,3 +12,6 @@ The following algorithms are shown in this repo:<br/>
 - Bubble Sort<br/>
   - Time complexity O(n^2)<br/>
   - Space complexity O(1)<br/>
+- Merge Sort<br/>
+  - Time complexity O(nlog(n))<br/>
+  - Space complexity O(n)<br/>
