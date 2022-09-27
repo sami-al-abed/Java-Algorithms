@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Insertion Sort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Selection Sort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Merge Sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Quick Sort" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

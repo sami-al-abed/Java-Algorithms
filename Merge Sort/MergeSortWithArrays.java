@@ -8,6 +8,7 @@ public class MergeSortWithArrays
     /**
      * Method used to apply merge sort
      * @param array is the array to be sorted
+     * @return sorted array
      */
     public static int[] mergeSort(int[] array) {
         if (array.length == 1) return array; // break out of recursion if array size = 1

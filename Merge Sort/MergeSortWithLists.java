@@ -9,6 +9,7 @@ public class MergeSortWithLists
     /**
      * Method used to apply merge sort
      * @param list is the list to be sorted
+     * @return sorted list
      */
     public static ArrayList<Integer> mergeSort(ArrayList<Integer> list) {
         if (list.size() == 1) return list; // break out of recursion if array size = 1
@@ -41,5 +42,4 @@ public class MergeSortWithLists
         ArrayList<Integer> sortedList = mergeSort(list);
         for (int j : sortedList) System.out.println(j);
     }
-
 }
