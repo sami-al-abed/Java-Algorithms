@@ -18,3 +18,6 @@ The following algorithms are shown in this repo:<br/>
 - Quick Sort<br/>
   - Time complexity O(nlog(n)) on average, but O(n^2) in worst case<br/>
   - Space complexity O(1)<br/>
+- Binary Search<br/>
+  - Time complexity O(log(n))<br/>
+  - Space complexity O(1)<br/>
